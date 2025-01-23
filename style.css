@@ -7,5 +7,14 @@
 /* temp bg color */
 body {
     background: #d8f0d1;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+  }
+
+  #confetti {
+    background-color: pink;
+    padding: 1em;
+    border-radius: 1em;
   }
   

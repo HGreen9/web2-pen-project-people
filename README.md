@@ -10,5 +10,6 @@
 
 ## Citations 
 * [Normalize CSS](https://necolas.github.io/normalize.css/)
+* [Confetti] (https://confettijs.org/confetti.min.js)
 <!-- font share
 real favicon -->
